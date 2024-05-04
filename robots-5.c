@@ -1,5 +1,5 @@
 /*  Author: Ekansh Chawla
-    Par of an Assignment for a course 
+    Part of an Assignment for a course 
 */
 
 
