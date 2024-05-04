@@ -1,6 +1,5 @@
 /*  Author: Ekansh Chawla
-    Student Number: 301585708
-    Assignment 1 Part 2: Mastermind.c
+    Par of an Assignment for a course 
 */
 
 
